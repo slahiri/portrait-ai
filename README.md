@@ -1,3 +1,9 @@
+---
+title: portrait-ai
+app_file: app.py
+sdk: gradio
+sdk_version: 4.29.0
+---
 # Portrait AI
 
 Portrait AI is a simple AI project that generates human portraits based on input prompts. This project uses Gradio to create an easy-to-use interface for the AI model.
